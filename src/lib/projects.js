@@ -8,7 +8,7 @@ export const projects = [
     tech: ["Vue.js", "Python", "Flask", "Chart.js", "Tailwind CSS", "Pandas", "SocketIO", "APIs", "Bitcoin"],
     github: "https://github.com/LuxuryTimepiece/btc-onchain-signals-python",
     demo: "",
-    screenshot: "./src/assets/img/BTCSigDash.png"
+    screenshot: "https://raw.githubusercontent.com/LuxuryTimepiece/luxurytimepiece-portfolio/refs/heads/main/src/assets/img/BTCSigDash.png"
   },
   {
     title: "Blockchain Simulator",
@@ -16,7 +16,7 @@ export const projects = [
     tech: ["Vue.js", "Flask", "Rust", "Actix Web", "Chart.js", "Tailwind CSS", "Blockchain", "Bitcoin"],
     github: "https://github.com/LuxuryTimepiece/blockchain-simulator",
     demo: "",
-    screenshot: "./src/assets/img/BlockSimDemo.png"
+    screenshot: "https://raw.githubusercontent.com/LuxuryTimepiece/luxurytimepiece-portfolio/refs/heads/main/src/assets/img/BlockSimDemo.png"
   },
   {
     title: "PDF Merger",
@@ -24,7 +24,7 @@ export const projects = [
     tech: ["React", "Python", "Flask", "PyPDF2", "react-beautiful-dnd"],
     github: "https://github.com/LuxuryTimepiece/pdf-merger",
     demo: "",
-    screenshot: "./src/assets/img/PdfMergeDemo.png"
+    screenshot: "https://raw.githubusercontent.com/LuxuryTimepiece/luxurytimepiece-portfolio/refs/heads/main/src/assets/img/PdfMergeDemo.png"
   },
   {
     title: "YT Transcript Dashboard",
@@ -32,7 +32,7 @@ export const projects = [
     tech: ["Python", "React", "JavaScript", "Flask", "SQLite", "yt-dlp"],
     github: "https://github.com/LuxuryTimepiece/youtube-transcript-dashboard",
     demo: "",
-    screenshot: "./src/assets/img/YTDemo.png"
+    screenshot: "https://raw.githubusercontent.com/LuxuryTimepiece/luxurytimepiece-portfolio/refs/heads/main/src/assets/img/YTDemo.png"
   },
   {
     title: "Agri IoT Simulator",
@@ -40,7 +40,7 @@ export const projects = [
     tech: ["Rust", "CLI", "ratatui", "tokio", "Precision agriculture"],
     github: "https://github.com/LuxuryTimepiece/agri_iot_simulator",
     demo: "",
-    screenshot: "./src/assets/img/AgIotSimDemo.png"
+    screenshot: "https://raw.githubusercontent.com/LuxuryTimepiece/luxurytimepiece-portfolio/refs/heads/main/src/assets/img/AgIotSimDemo.png"
   },
   {
     title: "BTCBlockCheck CLI",
@@ -48,6 +48,6 @@ export const projects = [
     tech: ["Python", "API", "CLI", "Blockchain", "Bitcoin"],
     github: "https://github.com/LuxuryTimepiece/BTCBlockCheck",
     demo: "",
-    screenshot: "./src/assets/img/blockHeight.png"
+    screenshot: "https://raw.githubusercontent.com/LuxuryTimepiece/luxurytimepiece-portfolio/refs/heads/main/src/assets/img/blockHeight.png"
   }
 ];
