@@ -3,7 +3,7 @@
 A Svelte-based portfolio showcasing my web apps, tools and blockchain projects. Built with Svelte 5.x, Tailwind CSS, and Vite, this portfolio features a dark crypto aesthetic, filterable project cards, and a modal for project details.
 
 ## Live Demo
-Check out the live site: [https://luxurytimepiece-portfolio.netlify.app](https://luxurytimepiece-portfolio.netlify.app) (update with your actual URL)
+Check out the live site: [https://alexander-harper-portfolio.netlify.app](https://alexander-harper-portfolio.netlify.app)
 
 ## Features
 - Dark theme with a crypto-inspired aesthetic (`crypto-dark`, `crypto-green`, `crypto-gray`).
